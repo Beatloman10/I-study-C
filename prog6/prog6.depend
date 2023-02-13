@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1675193430 source:c:\users\anton molokov\documents\cpro\prog6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+	<winuser.h>
+
